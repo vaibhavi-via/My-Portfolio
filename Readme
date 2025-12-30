@@ -1,0 +1,21 @@
+# My Portfolio
+
+A clean, responsive portfolio showcasing projects, skills, and contact information.
+
+## Highlights
+- Simple, modern design focused on readability and accessibility
+- Project gallery with links and short descriptions
+- Contact section with email and GitHub link
+
+## Built with
+HTML, CSS, JavaScript (replace with React/Vue/etc. if applicable)
+
+## Run locally
+1. Clone the repo: git clone https://github.com/vaibhavi-via/My-portfolio.git
+2. Open `index.html` in your browser (or run your dev server)
+
+## Demo & Deploy
+Host on GitHub Pages, Vercel, or Netlify for quick deployment.
+
+## Contact
+GitHub: [vaibhavi-via](https://github.com/vaibhavi-via)
